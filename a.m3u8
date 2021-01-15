@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:50
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:50.160000,
+https://cdn.fbsbx.com/v/t59.2708-21/136599399_208714064243463_4762519298336140705_n.txt/filename0.ts.txt?_nc_cat=101&ccb=2&_nc_sid=0cab14&_nc_ohc=pOVXFWMxr9wAX9jk8E_&_nc_ht=cdn.fbsbx.com&oh=efd31d51dce75152cd8a7f144ce1a4fc&oe=60037091&dl=1
+#EXTINF:49.920000,
+https://cdn.fbsbx.com/v/t59.2708-21/138547495_469497671120926_2409978833985632732_n.txt/filename1.ts.txt?_nc_cat=104&ccb=2&_nc_sid=0cab14&_nc_ohc=0Q-2Ws7GjBsAX99t_W1&_nc_ht=cdn.fbsbx.com&oh=eff5baa0ccf1521632514434010832bb&oe=60033802&dl=1
+#EXTINF:8.640000,
+https://cdn.fbsbx.com/v/t59.2708-21/135279848_396684484768513_3395801705836248998_n.txt/filename2.ts.txt?_nc_cat=105&ccb=2&_nc_sid=0cab14&_nc_ohc=Sol6JhsOOZAAX8I7ltc&_nc_ht=cdn.fbsbx.com&oh=dac52db3e1cd7faeab419d943865dd20&oe=6002FE54&dl=1
+#EXT-X-ENDLIST
